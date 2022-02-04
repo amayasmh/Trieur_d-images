@@ -1,2 +1,2 @@
 # Trieur_d-images
-un programme qui trie les images en fonction des extensions
+Un script python pour trier les images dans un dossier en fonction des extensions.
